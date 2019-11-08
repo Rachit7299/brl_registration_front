@@ -1,0 +1,9 @@
+*{
+    color: black;
+}
+.form-container{
+    border-radius: 15px;
+    background-color: black;
+    opacity:0.66;
+     padding: 30px;
+    }
